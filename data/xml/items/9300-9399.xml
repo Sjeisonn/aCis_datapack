@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<item id="9300" type="EtcItem" name="Starter Pack">
+		<set name="default_action" val="capsule" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="60" />
+		<set name="handler" val="ItemSkills" />
+		<set name="item_skill" val="7100-1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="9301" type="EtcItem" name="Bronze Premium Token - 7 days">
+		<set name="material" val="PAPER" />
+		<set name="weight" val="20" />
+		<set name="handler" val="AioToken" />
+	</item>
+	<item id="9302" type="EtcItem" name="Bronze Premium Token - 14 days">
+		<set name="material" val="PAPER" />
+		<set name="weight" val="20" />
+		<set name="handler" val="AioToken" />
+	</item>
+	<item id="9303" type="EtcItem" name="Bronze Premium Token - 28 days">
+		<set name="material" val="PAPER" />
+		<set name="weight" val="20" />
+		<set name="handler" val="AioToken" />
+	</item>
+	<item id="9304" type="EtcItem" name="Silver Premium Token - 7 days">
+		<set name="material" val="PAPER" />
+		<set name="weight" val="20" />
+		<set name="handler" val="AioToken" />
+	</item>
+	<item id="9305" type="EtcItem" name="Silver Premium Token - 14 days">
+		<set name="material" val="PAPER" />
+		<set name="weight" val="20" />
+		<set name="handler" val="AioToken" />
+	</item>
+	<item id="9306" type="EtcItem" name="Silver Premium Token - 28 days">
+		<set name="material" val="PAPER" />
+		<set name="weight" val="20" />
+		<set name="handler" val="AioToken" />
+	</item>
+	<item id="9307" type="EtcItem" name="Gold Premium Token - 7 days">
+		<set name="material" val="PAPER" />
+		<set name="weight" val="20" />
+		<set name="handler" val="AioToken" />
+	</item>
+	<item id="9308" type="EtcItem" name="Gold Premium Token - 14 days">
+		<set name="material" val="PAPER" />
+		<set name="weight" val="20" />
+		<set name="handler" val="AioToken" />
+	</item>
+	<item id="9309" type="EtcItem" name="Gold Premium Token - 28 days">
+		<set name="material" val="PAPER" />
+		<set name="weight" val="20" />
+		<set name="handler" val="AioToken" />
+	</item>
+</list>
