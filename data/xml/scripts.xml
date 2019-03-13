@@ -350,6 +350,7 @@
 
 	<script path="scripts.ai.L2AttackableAIScript"/>
 
+	<script path="scripts.ai.group.Barakiel"/>
 	<script path="scripts.ai.group.Chests"/>
 	<script path="scripts.ai.group.FeedableBeasts"/>
 	<script path="scripts.ai.group.FleeingNPCs"/>

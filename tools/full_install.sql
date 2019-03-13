@@ -1,4 +1,5 @@
 DROP TABLE IF EXISTS accounts;
+DROP TABLE IF EXISTS auction_table
 DROP TABLE IF EXISTS gameservers;
 DROP TABLE IF EXISTS auction;
 DROP TABLE IF EXISTS auction_bid;
