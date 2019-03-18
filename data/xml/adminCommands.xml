@@ -11,6 +11,10 @@
 	<aCar name="admin_silence" accessLevel="7"/>
 	<aCar name="admin_tradeoff" accessLevel="7"/>
 	<aCar name="admin_reload" accessLevel="7"/>
+	
+	<!-- AIO -->
+	<aCar name="admin_aio" accessLevel="7"/>
+	<aCar name="admin_removeaio" accessLevel="7"/>
 
 	<!-- ANNOUNCEMENTS -->
 	<aCar name="admin_announce" accessLevel="7"/>
